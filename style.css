@@ -1,0 +1,156 @@
+
+
+
+
+*{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+}
+
+table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+#tables{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+
+.col1,.col6{
+    background-color: blue;
+    color: white;
+}
+.col2,.col7{
+    
+    background-color: red;
+    color: white;
+}
+.col3 ,.col8{
+    background-color: yellow;
+}
+.col4{
+    background-color: orange;
+}
+.col5{
+    background-color: green;
+}
+ 
+
+
+#table1,#tab{
+    width: 100%;
+    /* border: 2px solid black; */
+    /* height: 600px; */
+    margin-top: 30px;
+}
+
+#ths{
+    background-color: aqua;
+    text-align: center;
+}
+
+.col11{
+    background-color: aqua;
+}
+.col12{
+    background-color: black;
+    color: white;
+}
+.col13{
+    background-color: brown;
+    color: white;
+}
+.col14{
+    background-color: lightgreen;
+ 
+    
+}
+.col15{
+    background-color: chartreuse;
+  
+}
+
+.para{
+    background-color: green;
+    margin-top: 60px;
+    color: red;
+}
+
+#para2{
+    background-color: red;
+    color: white;
+}
+#para1{
+    background-color: azure;
+    margin-top: 10px;
+    color: red;
+}
+ 
+p {
+    background-color: antiquewhite;
+}
+
+.an{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    display: block;
+    
+}
+.an:hover{
+    text-decoration: underline;
+}
+
+.paras1{
+    display: inline;
+
+}
+
+ul,li,h2{
+    
+    margin-left: 30px;
+}
+
+#olid1{
+    color: red;
+}
+#olid2{
+    color: blue;
+}
+#olid3{
+    color: brown;
+}
+
+#ulid1{
+    color: purple;
+}
+#ulid2{
+    color:magenta;
+}
+#ulid3{
+    color: tomato;
+}
+ 
+
+mark{
+    background-color: yellow;
+}
+
+.dd{
+    color: violet;
+}
+.dt{
+    display: inline;
+    background-color: yellow;
+}
